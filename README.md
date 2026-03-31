@@ -104,7 +104,7 @@ This project is inspired by practical issues observed while contributing to Godo
 
 ## License
 
-TBD (likely MIT or Apache 2.0)
+MIT
 
 ---
 
